@@ -62,8 +62,7 @@ Le projet comprend :
 
 - [`Notebook_Evolution_cotisants_URSSAF.ipynb`](https://github.com/Samadkod/Valorisation-des-donn-es-du-recouvrement-URSSAF/tree/main/Mini-Projet-Urssaf/Notebook_Evolution_cotisants_URSSAF.ipynb) → Notebook complet
 - [`Notebook_Evolution_cotisants_URSSAF_Pro.pdf`](https://github.com/Samadkod/Valorisation-des-donn-es-du-recouvrement-URSSAF/tree/main/Mini-Projet-Urssaf/Notebook_Evolution_cotisants_URSSAF_Pro.pdf) → Version PDF professionnelle
-- [`Variation_Cotisants_URSSAF_2020_2023.csv`]([https://github.com/Samadkod/Valorisation-des-donn-es-du-recouvrement-URSSAF/tree/main/Mini-Projet-Urssaf/Variation_Cotisants_URSSAF_2020_2023.csv](https://github.com/Samadkod/Valorisation-des-donn-es-du-recouvrement-URSSAF/blob/main/Mini-Projet-Urssaf/Variation_Cotisants_URSSAF_2020_2023.csv)) → Table des indicateurs
-  
+- [`Variation_Cotisants_URSSAF_2020_2023.csv`](https://github.com/Samadkod/Valorisation-des-donn-es-du-recouvrement-URSSAF/tree/main/Mini-Projet-Urssaf/Variation_Cotisants_URSSAF_2020_2023.csv) → Table des indicateurs
 
 ---
 
