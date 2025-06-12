@@ -1,7 +1,7 @@
 # 📊 [Mini projet URSSAF - Évolution du nombre de cotisants par région (2019-2023)](https://github.com/Samadkod/Valorisation-des-donn-es-du-recouvrement-URSSAF/tree/main/Mini-Projet-Urssaf/Notebook_Evolution_cotisants_URSSAF_Pro.pdf)
 
 <p align="center">
-  <img src="https://www.urssaf.fr/files/live/sites/urssaffr/files/logos/logo.svg" width="800" height="250" />
+  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/32/URSSAF_Logo.svg/1200px-URSSAF_Logo.svg.png" width="800" height="250" />
 </p>
 ---
 
