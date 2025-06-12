@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/32/URSSAF_Logo.svg/1200px-URSSAF_Logo.svg.png" width="800" height="250" />
 </p>
----
 
 ## 🎯 Objectif
 
