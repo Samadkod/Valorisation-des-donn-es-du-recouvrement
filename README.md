@@ -1,12 +1,9 @@
-# 📊 [Mini projet URSSAF - Évolution du nombre de cotisants par région (2019-2023)](https://github.com/Samadkod/Valorisation-des-donn-es-du-recouvrement-URSSAF/tree/main/Mini-Projet-Urssaf/Notebook_Evolution_cotisants_URSSAF_Pro.pdf)
+# 📊 [Évolution du nombre de cotisants par région (2019-2023)](https://github.com/Samadkod/Valorisation-des-donn-es-du-recouvrement-URSSAF/tree/main/Mini-Projet-Urssaf/Notebook_Evolution_cotisants_URSSAF_Pro.pdf)
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/32/URSSAF_Logo.svg/1200px-URSSAF_Logo.svg.png" width="800" height="250" />
-</p>
 
 ## 🎯 Objectif
 
-Ce mini projet a été réalisé dans le cadre de ma candidature au poste de **Chargé de missions statistiques** à l'URSSAF Île-de-France.
+Ce mini projet a été réalisé dans le cadre de ma candidature au poste de **Chargé de missions statistiques** dans un organisme public en Île-de-France.
 
 L'objectif est de démontrer ma capacité à :
 - Produire des analyses claires et lisibles à partir de données socio-économiques.
@@ -18,11 +15,11 @@ L'objectif est de démontrer ma capacité à :
 ## 🗂️ Données
 
 Les données utilisées proviennent de sources publiques (INSEE / DARES / ACOSS).  
-Elles illustrent l'évolution du nombre de cotisants URSSAF dans trois grandes régions entre 2019 et 2023.
+Elles illustrent l'évolution du nombre de cotisants dans trois grandes régions entre 2019 et 2023.
 
 - Région : Île-de-France, Auvergne-Rhône-Alpes, Provence-Alpes-Côte d'Azur
 - Période : 2019 à 2023
-- Indicateur suivi : Nombre de cotisants URSSAF
+- Indicateur suivi : Nombre de cotisants
 
 ---
 
@@ -51,7 +48,7 @@ Le projet comprend :
 
 ---
 
-## 🚀 Valeur ajoutée pour l'URSSAF
+## 🚀 Valeur ajoutée
 
 - Capacité à **valoriser les données du recouvrement**.
 - Maîtrise des techniques d'analyse statistique et de visualisation.
@@ -62,9 +59,9 @@ Le projet comprend :
 
 ## 📄 Fichiers du projet
 
-- [`Notebook_Evolution_cotisants_URSSAF.ipynb`](https://github.com/Samadkod/Valorisation-des-donn-es-du-recouvrement-URSSAF/tree/main/Mini-Projet-Urssaf/Notebook_Evolution_cotisants_URSSAF.ipynb) → Notebook complet
-- [`Notebook_Evolution_cotisants_URSSAF_Pro.pdf`](https://github.com/Samadkod/Valorisation-des-donn-es-du-recouvrement-URSSAF/tree/main/Mini-Projet-Urssaf/Notebook_Evolution_cotisants_URSSAF_Pro.pdf) → Version PDF professionnelle
-- [`Variation_Cotisants_URSSAF_2020_2023.csv`](https://github.com/Samadkod/Valorisation-des-donn-es-du-recouvrement-URSSAF/tree/main/Mini-Projet-Urssaf/Variation_Cotisants_URSSAF_2020_2023.csv) → Table des indicateurs
+- [`Notebook_Evolution_cotisants.ipynb`](https://github.com/Samadkod/Valorisation-des-donn-es-du-recouvrement-URSSAF/tree/main/Mini-Projet-Urssaf/Notebook_Evolution_cotisants_URSSAF.ipynb) → Notebook complet
+- [`Notebook_Evolution_cotisants_Pro.pdf`](https://github.com/Samadkod/Valorisation-des-donn-es-du-recouvrement-URSSAF/tree/main/Mini-Projet-Urssaf/Notebook_Evolution_cotisants_URSSAF_Pro.pdf) → Version PDF professionnelle
+- [`Variation_Cotisants_2020_2023.csv`](https://github.com/Samadkod/Valorisation-des-donn-es-du-recouvrement-URSSAF/tree/main/Mini-Projet-Urssaf/Variation_Cotisants_URSSAF_2020_2023.csv) → Table des indicateurs
 
 ---
 
@@ -76,4 +73,4 @@ Le projet comprend :
 
 ---
 
-*Ce mini projet est fourni à titre illustratif et n'est pas destiné à refléter les données réelles de l'URSSAF.*
+*Ce mini projet est fourni à titre illustratif et n'est pas destiné à refléter les données réelles de cette entité publique.*
